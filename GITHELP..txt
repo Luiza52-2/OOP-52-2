@@ -1,0 +1,13 @@
+Команды один раз на устройство
+
+Команды для регистрации новых данных
+git config --global user.name "Your name"
+git config --global user.email "your-email@example.com"
+
+Команды один раз для проекта
+git init
+git remote add origin https://github.com/Luiza52-2/OOP-52-2.git
+
+часто используемые команды
+git status
+git add .
