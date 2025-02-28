@@ -1,6 +1,7 @@
 Команды один раз на устройство
 
 Команды для регистрации новых данных
+
 git config --global user.name "Your name"
 git config --global user.email "your-email@example.com"
 
@@ -11,3 +12,11 @@ git remote add origin https://github.com/Luiza52-2/OOP-52-2.git
 часто используемые команды
 git status
 git add .
+
+Комманда для создания коммита
+git commit -m "LS: Lesson_1 1 added learn python oop"
+Команда для просмотра ветки
+git branch
+
+Комманда для отправки коммита в репозитории
+git push origin master
