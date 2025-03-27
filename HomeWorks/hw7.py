@@ -8,7 +8,7 @@ cursor = connect.cursor()
 cursor.execute('''
     CREATE TABLE IF NOT EXISTS users(
         name VARCHAR (100) NOT NULL,
-        age INTEGER NOT NULL,
+        age INTEGER NOT NULL,l
         hobby TEXT
     )
 ''')
